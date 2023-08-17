@@ -1,4 +1,11 @@
 # Fetch Receipt Processor
+
+# Introduction
+
+- this document guide you how to setup the receipt processor project and how to run on docker and without docker
+
+## Technologies
+
 The following technologies stack used as part of building this project:
 
 * Backend: Java 17, Spring-Boot 3
